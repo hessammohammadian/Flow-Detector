@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FlowModule:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlowModule_jar</output-path>
+    <root id="archive" name="FlowModule.jar">
+      <element id="module-output" name="FlowModule" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Test/lib/jnetpcap-1.4.r1425/jnetpcap.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
